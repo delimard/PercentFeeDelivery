@@ -6,6 +6,7 @@ author: Delimard <support@delimard.fr>
 
 Sommaire
 -------
+Module de transport pour Thelia E-commerce. Ce module vous permet de configurer un pourcentage pour definir le montant du transport.
 
 Français:
 1.  Installation
@@ -15,7 +16,7 @@ Français:
 
 ### Installation
 
-#### Manually
+#### Manuelle
 
 * Copiez le module dans le dossier ```<thelia_root>/local/modules/```  et assurez-vous que le nom du module est bien PercentFeeDelivery.
 * Activez le depuis votre interface d'administration Thelia.
